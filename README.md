@@ -1,0 +1,2 @@
+# EdabitFeladatok
+Edabit feladatok megoldasa
